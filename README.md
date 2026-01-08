@@ -12,3 +12,4 @@ azuredemogit
 ###### Heading level 6
 
 *italic*
+`This is a code snippet.`
