@@ -20,6 +20,9 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2 
 Content in the first column | content in the second column 
 
+kubectl get pods -n kube-system
+
+
 ``` bash
 kubectl get pods -n kube-system
 ```
